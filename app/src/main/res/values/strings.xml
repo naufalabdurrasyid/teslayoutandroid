@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Grosir 2</string>
+    <string name="lupa_password"><u>Lupa Password?</u></string>
+    <string name="daftar_sekarang"><u>Daftar Sekarang</u></string>
+</resources>
